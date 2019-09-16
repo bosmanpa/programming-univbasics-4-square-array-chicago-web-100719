@@ -5,5 +5,5 @@ new_numbers = []
 while counter < array.length do
   new_numbers.push((array[counter] ** 2))
   counter += 1
-  
+end
 end
